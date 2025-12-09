@@ -14,7 +14,7 @@ Raw StatsBomb data is not redistributed here; only processed outputs derived for
 - `src/dataset_build/` — league-specific data processing scripts
 - `data/processed/` — processed datasets (e.g., player features, roles)
 - `results/` — synergy matrices and figures
-- `dissertation.pdf` — full dissertation
+- `dissertation` — full dissertation
 
 ## Reproducibility
 Environment and run instructions will be added after initial upload of notebooks and data outputs.
