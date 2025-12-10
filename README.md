@@ -18,3 +18,8 @@ Raw StatsBomb data is not redistributed here; only processed outputs derived for
 
 ## Reproducibility
 Environment and run instructions will be added after initial upload of notebooks and data outputs.
+
+## License
+- Code and notebooks: GPLv3 (see LICENSE file).
+- Dissertation (dissertation.pdf): Creative Commons BY-NC 4.0 (see LICENSE-DISSERTATION file).
+- Data: Derived from [StatsBomb Open Data](https://github.com/statsbomb/open-data), licensed under the StatsBomb Open Data License. Raw data is not redistributed here.
