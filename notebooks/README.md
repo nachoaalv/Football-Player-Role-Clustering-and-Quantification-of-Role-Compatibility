@@ -4,7 +4,7 @@ This folder contains Jupyter notebooks used for analysis and experimentation.
 
 ### Main notebooks
 - `Final Lineup Optimiser.ipynb` — Builds lineups using player roles and the user-chosen synergy matrices.
-- `complimentary matrcies final.ipynb` — Generates the 11 synergy matrices from processed player data.
+- `complimentary matrices final.ipynb` — Generates the 11 synergy matrices from processed player data.
 
 ### Position clustering notebooks
 Located in `positions/`:
