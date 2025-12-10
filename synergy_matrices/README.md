@@ -14,7 +14,7 @@ This folder contains CSV files representing synergy matrices between player role
 - `win percentage matrix.csv`
 - `xgagainst matrix.csv`
 - `xgfor matrix.csv`
-- 
+  
 ### Purpose
 Synergy matrices quantify how role combinations affect team and individual performance metrics. 
 They have a synergy score for each possible pair of roles on the pitch.
